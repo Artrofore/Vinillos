@@ -69,3 +69,4 @@ public class GestorVinilos {
         return new ArrayList<>(coleccion);
     }
 }
+/aa
